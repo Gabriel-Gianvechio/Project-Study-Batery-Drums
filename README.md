@@ -1,5 +1,6 @@
-Wellcome! Thats a simple project for study, i hope u enjoy my digital batery drums :D
-step by step to ur drums work:
+Wellcome! Thats a simple project for study, i hope u enjoy my digital batery drums. :D
+
+This is the step by step to ur drums work:
 
 1- Create a folder for the project and drop index script, style.
 
